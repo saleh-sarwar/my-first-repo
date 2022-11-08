@@ -8,7 +8,7 @@ I live in Deggendorf, in the state of Bavaria, in Germany.
 
 Three of my top interests right now are:
 
-- Updating skills in the field of informatics to solve problems through finger dance a.k.a **coding**
+- Updating skills in the field of informatics to solve problems through finger dance aka **coding**
 - Sharpening the pattern recognition and calculation muscles of the brain through **Chess**
 - Experiencing the magical taste of **flow state** through gamming.
 
